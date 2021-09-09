@@ -1,0 +1,3 @@
+Ok, so back to basics with this starter html project.
+Current personnal objective is to finish the odin project Foundations course in 3 weeks.
+I am currently at 33% after few days, starting to be confortable with some aspects of web Dev ... Can't wait to make sense with all of this...
